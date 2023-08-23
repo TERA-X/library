@@ -1,20 +1,20 @@
 {
-    "files": {
-        "index.js": "334716fa69abcae1ff53323315fe8eb49fdf195e37a85b7c67c227714b6aaff5",
-        "module.json": "ddf31f7e295c39ed523fd64f81f6109d37b4fefe61db9e8146d46a7081658250",
-        "README.md": "c6a0560ba92924bfc0effa998e7e1c30ed1d4f603fbb4dd286d645370239ef8f",
-        "class/effect.js": "77c902a60571a995d2af95ca0acb60bf9e866a308340f70140b5652028b94ffb",
-        "class/entity.js": "5abe14986b1fa26561f1c1665d048f4fdbc63e8c6a36230d1ffcb8261bad0e6d",
-        "class/library.js": "c30bdeae2b81c9321898357d8982b33c5f1f47722f49f3e58ab91060a387a459",
-        "class/packet.js": "ba82b703d677dfd546280f8538298027a6cb2dcfa9b85599baa351e3c835e834",
-        "class/player.js": "5c51609a44b09692d08836a9207ccdec227ad47fbfeba6855ed3db65da22b1e5"
-    },
-    "defs": {
-        "C_LOGIN_ARBITER": "raw",
-        "S_INVEN": [17,18],
-        "S_LEAVE_PARTY": "raw",
-        "S_LOAD_TOPO": "raw",
-        "S_LOGIN": "raw",
-        "S_SPAWN_ME": "raw"
-    }
+	"files": {
+		"README.md": "c6a0560ba92924bfc0effa998e7e1c30ed1d4f603fbb4dd286d645370239ef8f",
+		"class/effect.js": "aac0644d400dad90f551563942d8bdc9c8b287438470dccedef6a8d0836f21b5",
+		"class/entity.js": "81bc1f2b52cce2cac68917d58ed4b874ec91293807187ce6239d9fec70620e8b",
+		"class/library.js": "d1b420d1889187fcdb8570e5358e22e09187161d7a9d03b3b45727e0b0825be1",
+		"class/packet.js": "e94ae3075f1d798532dda07e7751a3b894606ff627cc673ccca2c0f622a3423b",
+		"class/player.js": "21f7b0af07c88320bebcdfc4a5b26cdd1a3b50102389fa792d6862524f042e17",
+		"index.js": "271ce33a8250038af37fecf31f9c60d88730b45d2332db0872e4b5f34afb350d",
+		"module.json": "ddf31f7e295c39ed523fd64f81f6109d37b4fefe61db9e8146d46a7081658250"
+	},
+	"defs": {
+		"C_LOGIN_ARBITER": "raw",
+		"S_INVEN": [17,18],
+		"S_LEAVE_PARTY": "raw",
+		"S_LOAD_TOPO": "raw",
+		"S_LOGIN": "raw",
+		"S_SPAWN_ME": "raw"
+	}
 }
